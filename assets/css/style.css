@@ -1,4 +1,22 @@
+.collection{
+  width: 80%;
+  margin: auto;
+}
+
+.collection-box{
+  width: 40%;
+  margin: auto;
+  background-color: red;
+}
+
+
+
+
+
+
 /*------------------------------------------------------------------
+
+
 Project:	Photo
 Version:	1.0
 Last change:	4.2.2017
