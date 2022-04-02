@@ -8,16 +8,16 @@
 	background-repeat: no-repeat;
 }
 .collection-box1{
-	background-image: url("../img/0.jpg");
+	background-image: url("./img/0.jpg");
 }
 .collection-box2{
-	background-image: url("../img/0.jpg");
+	background-image: url("./img/0.jpg");
 }
 .collection-box3{
-	background-image: url("../img/0.jpg");
+	background-image: url("./img/0.jpg");
 }
 .collection-box4{
-	background-image: url("../img/0.jpg");
+	background-image: url("./img/0.jpg");
 }
 
 /*------------------Responsive----------------*/
